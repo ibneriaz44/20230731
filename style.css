@@ -19,24 +19,27 @@
 }
 #input{
     width: 200px;
-    padding: 12px 20px;
+    padding: 6px 10px;
     margin: auto;
     color: #fff;
     background-color: rgb(139, 65, 12);
+    font-size: 25px;
 }
 #start{
     width: 200px;
-    padding: 12px 20px;
+    padding: 6px 10px;
     margin: auto;
     color: #fff;
     background-color: rgb(139, 65, 12);
+    font-size: 25px;
 }
 #end{
     width: 200px;
-    padding: 12px 20px;
+    padding: 6px 10px;
     margin: auto;
     color: #fff;
     background-color: rgb(139, 65, 12);
+    font-size: 25px;
 }
 button {
     margin: 20px;
